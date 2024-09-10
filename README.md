@@ -2,7 +2,7 @@
 
 - 📚 Atualmente curso o 4° período de **Tecnologia da Informação** no IMD/UFRN
 - 😄 Pronomes: ela/dela
-- 📖 Estou lendo "Bando de dados, Teoria e Desenvolvimento" por William Pereira Alves
+- 📖 Estou lendo "Banco de dados, Teoria e Desenvolvimento" por William Pereira Alves
 
 ### Eu já atuei com...🔧
 
