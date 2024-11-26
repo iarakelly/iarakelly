@@ -1,6 +1,6 @@
 ## Olá! eu sou a Iara...
 
-- 📚 Atualmente curso o 4° período de **Tecnologia da Informação** no IMD/UFRN
+- 📚 Atualmente curso o 4° período de **Tecnologia da Informação** no IMD/UFRN.
 
 ### Eu já atuei com...🔧
 
@@ -20,4 +20,5 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Projetos em desenvolvimento...📉
-- TIC-TAC-TOE com HTML, CSS e JavaScript
+- Sistema de gerenciamento para uma biblioteca utilziando BST.
+- Sistema de gestão de voos utilizando heap máximo.
